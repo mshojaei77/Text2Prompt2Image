@@ -1,0 +1,2 @@
+Flask==2.1.2
+replicate==0.8.3
