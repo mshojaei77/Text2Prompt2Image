@@ -31,14 +31,12 @@ Text2Prompt2Image is a Flask-based web application that leverages the Replicate 
 1. **Home Page:**
    - Visit the home page to input your text.
 
+![image](https://github.com/mshojaei77/Text2Prompt2Image/assets/76538971/47437d62-a76a-4f22-8cc0-f085e17213ce)
+
 2. **Result Page:**
    - Navigate to the result page to view the generated prompt and corresponding image.
 
-![image](https://github.com/mshojaei77/Text2Prompt2Image/assets/76538971/47437d62-a76a-4f22-8cc0-f085e17213ce)
-
-
 ![image](https://github.com/mshojaei77/Text2Prompt2Image/assets/76538971/0c5272cb-8416-4195-9ea5-02d6871cbd54)
-
 
 
 ## Models Used
